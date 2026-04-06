@@ -9,7 +9,7 @@
     "ip": "dragonkingdoms627.mcsh.io",
     "port": 25565,
     "version": "1.20.1",
-    "try-creative": false
+    "try-creative": true
   },
   "position": {
     "enabled": true,
